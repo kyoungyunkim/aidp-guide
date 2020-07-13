@@ -4,7 +4,7 @@
 대상은 현재 AI/DT Engineering CoE중 AIDP **플랫폼을개발,운영하시는 구성원**이 대상입니다..
 
 
-# 개발자
+## 작성순서
 
 개발(운영)을 담당하고 계시는 구성원들은 기존 TDE의 문서를 MD(MarkDown)문서로 변환하시거나 MD파일로 작성하셔서 AIDP github repository로 업로드 하시면됩니다.
 업로드된 MD파일은 자동으로 Mkdocs서버의 특정 디렉토리에 sync되어 웹 화면으로 즉시(수초이내) 반영됩니다.
